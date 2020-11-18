@@ -16,7 +16,8 @@ RL BTC trader written in C++ using libtorch
     2020-11-18 22:13:51 +0000 Trainer INFO  save model: epoch=20 path=../models_train/btc/1d/PPOSampler_AttGru_1d_1rnn32_linear32_drop0.2_nlen30_Adam_8-9-104-114-122-129-0_prod2.5557_epo20_1605737631_roulette.pt
     ```
 * Effective
-    
+    * Here is a result for 1 sample model from Dec 2019 to Dec 2020:
+    ![alt text](https://github.com/kownse/LibtorchTrade/blob/main/image/result.png "Logo Title Text 1")
     
 
 ## Build
