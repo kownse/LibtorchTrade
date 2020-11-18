@@ -40,7 +40,7 @@ void feature_add()
     600,  // maxEpoch
     200,  // patient,
     10,   // repeat,
-    3.0f, // save threshold
+    2.5f, // save threshold
     0,    // dummy diff_col
     0.0f, // dummy score
     5,    // cnn_kernel_size
