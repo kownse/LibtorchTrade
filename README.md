@@ -1,5 +1,5 @@
 # LibtorchTrade
-RL BTC trader written in C++ using libtorch
+Reinforcement learning trader for BTC written in C++ using libtorch
 
 ## Guiding principles
 * Fast
